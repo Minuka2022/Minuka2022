@@ -9,3 +9,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: sometimes i talk with my dog
 -->
+## Watch my contribution graph get eaten by the snake 🐍
+![Snake gif](https://github.com/Minuka2022/Minuka2022/blob/output/github-contribution-grid-snake.gif)
